@@ -78,7 +78,7 @@ Feito com ❤️ pela Equipe 4 - Generation65 👋🏽 Entre em contato!
 
 - [Cinthia de Paula](https://github.com/cinthiadepaula)
 - [Júlio Cesar](https://github.com/JayCesar)
-- [Kamila Ramos](https://github.com/kmikazze)
+- [Camila Ramos](https://github.com/kmikazze)
 - [Maria de Fátima](https://github.com/Maria621)
 - [Marcelo Apolinário](https://github.com/whoamiApolo)
 - [Patrícia Silva](https://github.com/ppfsil)
